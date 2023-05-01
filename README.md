@@ -1,3 +1,9 @@
-Scripts that will make your world spin faster.
+# Synopsis:
+A collection of scripts that will make your world spin around a bit faster.
 
-_p.s some exist for no reason other than practice_
+# Scripts and their descriptions:
+
+## readmeGeny:
+Make your ALX projects more professional with a formatted README.md. This script 
+generates a README.md after asking the user for the number of questions. It gets
+it's basic format from the template.md file.
