@@ -23,3 +23,14 @@ Make sure that you add the following line to your .bashrc and also change the sc
 to wherever you save the script.
 **alias rm="/path/to/trashcan.sh"**
 
+## cloneWars:
+This script makes git cloning a bit easier, it will prompt the user for whether the repo
+they are trying to clone is public or personal. If personal it will enter their username and 
+token when cloning. If public it will just clone the repo. I still plan on creating 
+a script that will cache your token so you don't  have to enter it, but for now I am happy
+with this. **Please remember to change the script variables gitUserName and gitToken to your own
+or personal cloning will not work!**
+
+## youtubeMP3:
+This script is a youtube to mp3 converter/downloader. It is not currently working
+due to a youtube-dl(program) error that I am struggling to resolve, this will be fixed in the future.
