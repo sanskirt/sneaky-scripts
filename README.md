@@ -5,7 +5,9 @@ Feel free to submit your ideas in the form of an issue and I will add it to the 
 * Inspiratioanl quote generator.
 * Mega Grep Grabs - prompts user for files to search for and copy to a location on the system.
 * Battery percent notifier
-* Youtube to mp3
+* Youtube to mp3 (Done but having issues with youtube-dl)
+* Easy git cloner (personal and public)
+* Document scanner and copier
 
 # Scripts and their descriptions:
 
