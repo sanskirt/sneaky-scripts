@@ -1,6 +1,7 @@
 # Synopsis:
 A collection of scripts that will make your world spin around a bit faster.
 Feel free to submit your ideas in the form of an issue and I will add it to the roadmap here in the readme.
+
 # What's next/Roadmap?
 * Inspiratioanl quote generator.
 * Mega Grep Grabs - prompts user for files to search for and copy to a location on the system.
@@ -8,6 +9,15 @@ Feel free to submit your ideas in the form of an issue and I will add it to the 
 * Youtube to mp3 (Done but having issues with youtube-dl)
 * Easy git cloner (personal and public)
 * Document scanner and copier
+
+# Current development stages:
+
+## On hold:
+* Youtube to mp3 (having issues with youtube-dl)
+
+## In development:
+* Adding a html web scraper to readmeGeny to automagically grab all relevant 
+information from the alx projects page.
 
 # Scripts and their descriptions:
 
