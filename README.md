@@ -21,7 +21,7 @@ This script takes over the rm command to make deleting files safer, too many tim
 have i deleted huge files or folders due to reckless rm -rfs. **NO LONGER I say!**
 Make sure that you add the following line to your .bashrc and also change the script paths
 to wherever you save the script.
-**alias rm="/path/to/trashcan.sh"**
+**alias tc="/path/to/trashcan.sh"**
 
 ## cloneWars:
 This script makes git cloning a bit easier, it will prompt the user for whether the repo
