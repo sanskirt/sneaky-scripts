@@ -2,6 +2,8 @@
 A collection of scripts that will make your world spin around a bit faster.
 Feel free to submit your ideas in the form of an issue and I will add it to the roadmap here in the readme.
 
+Join me on discord: https://discord.gg/HdsMTrUGau
+
 # What's next/Roadmap?
 * Mega Grep Grabs - prompts user for files to search for and copy to a location on the system.
 * Battery percent notifier
